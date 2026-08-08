@@ -55,7 +55,7 @@ I focus on turning technical concepts into practical systems — from semantic-s
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js&theme=dark" />
 </p>
 
 ### Frontend
