@@ -61,7 +61,7 @@ I focus on turning technical concepts into practical systems — from semantic-s
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
 ### Backend & Databases
