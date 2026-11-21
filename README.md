@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:312e81&height=220&section=header&text=DNYANESHWAR%20MASKAR&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineering%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=c4b5fd" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Computer+Engineering+%7C+AI%2FML+%7C+Software+Development;Building+AI-powered+applications+for+real-world+problems;Python+%7C+Machine+Learning+%7C+Full+Stack+Engineering;Designing+systems+with+clarity%2C+performance%2C+and+impact" alt="Typing SVG"/></a>
